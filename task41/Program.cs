@@ -29,4 +29,4 @@ int NumComp (int[] NumArray)
 NumbersIp(m);
 
 int count = NumComp (NumArray);
-Console.WriteLine($"Чисел больше  0: {count} ");
+Console.WriteLine($"Чисел больше  0 -> {count} ");
